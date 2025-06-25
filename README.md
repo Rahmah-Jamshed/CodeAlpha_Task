@@ -31,7 +31,7 @@ These projects were created as part of my learning journey in Data Science. Each
 ### 2. 🌸 Iris Flower Classification
 - **Objective:** Classify Iris flowers into species based on petal and sepal measurements.
 - **Techniques:**
-  - Logistic Regression, SVM (Support Vector Machines)
+  - Random Forest Classifier
   - Train/Test Splitting and Accuracy Scoring
 - **Visualization Highlights:**
   - KDE plots
