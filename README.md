@@ -11,13 +11,13 @@ These projects were created as part of my learning journey in Data Science. Each
 📁 Folder Structure
 
 │
-├── sales_pred.ipynb                # Sales prediction notebook
-├── SalesAdvertising_dataset.csv    # Dataset for sales prediction
+├── sales_pred.ipynb                                               # Sales prediction notebook
+├── SalesAdvertising_dataset.csv                                   # Dataset for sales prediction
 │
-├── iris_class.ipynb                # Iris classification notebook
-├── Iris_Dataset.csv                # Dataset for iris project
+├── iris_class.ipynb                                               # Iris classification notebook
+├── Iris_Dataset.csv                                               # Dataset for iris project
 │
-├── car_price_pred.ipynb            # Car price prediction notebook
-├── car_dataset.csv                 # Dataset for car price project
+├── car_price_pred.ipynb                                           # Car price prediction notebook
+├── car_dataset.csv                                                # Dataset for car price project
 │
-└── README.md                       # Project documentation (this file)
+└── README.md                                                      # Project documentation (this file)
